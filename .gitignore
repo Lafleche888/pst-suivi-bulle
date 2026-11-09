@@ -1,0 +1,10 @@
+# Films bruts (1,5 Go) : non versionnés, voir "1. Photos/LISEZMOI.md"
+1. Photos/*
+!1. Photos/LISEZMOI.md
+
+# Système / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
